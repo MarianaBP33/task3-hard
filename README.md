@@ -2,6 +2,7 @@
 
 This is a healthcare management application built using Spring Boot and REST services. The application allows healthcare providers to manage patient records, schedule appointments, and prescribe medication. Additionally, it integrates with a third-party service, such as Google Maps, to provide directions to healthcare facilities.
 
+created with ChatGPT.
 ## Features
 
 - CRUD operations for managing patient records.
